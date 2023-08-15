@@ -6,5 +6,7 @@ The website provides news using an api,the news links can be used to navigate th
 ### `ReactJ`  `NodeJS` 
 
 ## Snaps:
-![alt text]()
+![alt text](1.PNG)
+![alt text](2.PNG)
+![alt text](3.PNG)
 
